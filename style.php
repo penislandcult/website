@@ -4,7 +4,7 @@
 
 body
 {
-	font-family: tahoma;
+	font-family: 'Roboto Condensed', sans-serif;
 	text-align: justify;
 }
 

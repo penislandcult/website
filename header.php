@@ -13,7 +13,7 @@
     <h3 class="text-muted">Pen Island Cult</h3><hr/>
 	   <div class="jumbotron">
     <h1>Welcome to the cult!</h1>
-    <p class="lead">We are people that pretend that they know what the fuck they're doing</p>
+    <p class="lead">We are people that pretend that we know what the fuck we are doing</p>
    </div>
    </div>
   </header>

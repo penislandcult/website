@@ -4,67 +4,20 @@
 
 body
 {
-	font-family: tahoma, sans-serif;
+	font-family: tahoma;
 	text-align: justify;
+}
+
+.ascii
+{
+	font-family: fixedsys;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 td
 {
 	padding: 5px;
-}
-
-.cont
-{
-	margin: 100px auto 0 auto;
-	width: 490px;
-	border: 1px dotted black;
-	border-radius: 30px;
-	overflow: auto;
-}
-
-header
-{
-	padding: 0 10px 10px 10px; 
-	overflow: hidden;
-	margin-bottom: 20px;
-}
-
-.title
-{
-	font-size: 25px;
-}
-
-.content
-{
-	padding-left: 10px;
-	padding-right: 10px;
-}
-
-.nbp
-{
-	margin-top: 10px;
-}
-
-.nbptitle
-{
-	text-transform: uppercase;
-	font-weight: bold;
-}
-
-.stitle
-{
-	text-transform: uppercase;
-	font-weight: bold;
-}
-
-.scripts, .nbp
-{
-	margin: 10px;
-}
-
-.scripts
-{
-	margin-bottom: 10px;
 }
 
 footer

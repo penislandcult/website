@@ -7,7 +7,7 @@
   <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="jumbotron-narrow.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="style.php" title="Style">
-  <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
  </head>
  <body>
   <div class="container">

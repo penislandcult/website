@@ -4,7 +4,7 @@
 
 body
 {
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Lato', sans-serif;
 	text-align: justify;
 }
 

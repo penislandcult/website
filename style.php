@@ -4,7 +4,7 @@
 
 body
 {
-	font-family: tahoma;
+	font-family: 'Lato', sans-serif;
 	text-align: justify;
 }
 
